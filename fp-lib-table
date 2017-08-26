@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Land Patterns")(type KiCad)(uri "$(KIPRJMOD)/Land Patterns.pretty")(options "")(descr ""))
+)
