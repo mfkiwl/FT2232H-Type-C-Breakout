@@ -3,7 +3,7 @@
   (general
     (links 130)
     (no_connects 6)
-    (area 147.275 79.924999 203.153334 124.175)
+    (area 147.275 79.924999 203.153334 122.175)
     (thickness 1.6)
     (drawings 49)
     (tracks 516)
@@ -61,7 +61,7 @@
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.1)
-    (solder_mask_min_width 0.1)
+    (solder_mask_min_width 0.4)
     (aux_axis_origin 0 0)
     (visible_elements FFFFFF7F)
     (pcbplotparams

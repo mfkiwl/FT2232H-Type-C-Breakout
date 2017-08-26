@@ -6,11 +6,11 @@ PROJECT_NAME = "FT2232H Type-C"
 
 FILES = [
     ('-F.Cu.gbr', '.GTL'),
-    ('-F.Mask.gbr', '.GTM'),
+    ('-F.Mask.gbr', '.GTS'),
     ('-F.SilkS.gbr', '.GTO'),
 
     ('-B.Cu.gbr', '.GBL'),
-    ('-B.Mask.gbr', '.GBM'),
+    ('-B.Mask.gbr', '.GBS'),
     ('-B.SilkS.gbr', '.GBO'),
 
     ('-Edge.Cuts.gbr', '.GML'),
