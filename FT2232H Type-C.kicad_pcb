@@ -2,8 +2,8 @@
 
   (general
     (links 130)
-    (no_connects 40)
-    (area 147.924999 79.924999 200.075001 120.075001)
+    (no_connects 6)
+    (area 147.275 79.924999 203.153334 124.175)
     (thickness 1.6)
     (drawings 49)
     (tracks 516)
@@ -61,7 +61,7 @@
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.1)
-    (solder_mask_min_width 0.32)
+    (solder_mask_min_width 0.1)
     (aux_axis_origin 0 0)
     (visible_elements FFFFFF7F)
     (pcbplotparams
@@ -590,7 +590,7 @@
     (descr "Through hole socket strip")
     (tags "socket strip")
     (path /59A1F884)
-    (fp_text reference J2 (at 0 -5.1 180) (layer F.SilkS)
+    (fp_text reference J2 (at 0.12 2.25 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value CONN_01X20 (at 0 -3.1 180) (layer F.Fab) hide
