@@ -1,4 +1,4 @@
-update=Saturday, August 26, 2017 'pmt' 12:42:24 pm
+update=Thursday, September 07, 2017 'pmt' 10:29:36 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,13 @@ LibName29=valves
 LibName30=library/ftdi
 LibName31=library/conn
 LibName32=/Users/safarir/Workspaces/usb-type-c-kicad-lib/usb-type-c
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
