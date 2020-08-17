@@ -5,15 +5,15 @@ import os
 PROJECT_NAME = "FT2232H Type-C"
 
 FILES = [
-    ('-F.Cu.gbr', '.GTL'),
-    ('-F.Mask.gbr', '.GTS'),
-    ('-F.SilkS.gbr', '.GTO'),
+    ('-F_Cu.gbr', '.GTL'),
+    ('-F_Mask.gbr', '.GTS'),
+    ('-F_SilkS.gbr', '.GTO'),
 
-    ('-B.Cu.gbr', '.GBL'),
-    ('-B.Mask.gbr', '.GBS'),
-    ('-B.SilkS.gbr', '.GBO'),
+    ('-B_Cu.gbr', '.GBL'),
+    ('-B_Mask.gbr', '.GBS'),
+    ('-B_SilkS.gbr', '.GBO'),
 
-    ('-Edge.Cuts.gbr', '.GML'),
+    ('-Edge_Cuts.gbr', '.GML'),
 
     ('.drl', '.TXT'),
 ]
